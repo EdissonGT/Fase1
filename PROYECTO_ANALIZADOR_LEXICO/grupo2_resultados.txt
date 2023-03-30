@@ -1,0 +1,47 @@
+TOKENS:
+PALABRA_CLAVE: public (linea 0)
+PALABRA_CLAVE: class (linea 0)
+IDENTIFICADOR: HolaMundo (linea 0)
+OPERADOR: { (linea 0)
+PALABRA_CLAVE: public (linea 2)
+IDENTIFICADOR: static (linea 2)
+PALABRA_CLAVE: void (linea 2)
+PALABRA_CLAVE: main (linea 2)
+OPERADOR: ( (linea 2)
+PALABRA_CLAVE: String (linea 2)
+ERROR: [ (linea 2)
+ERROR: ] (linea 2)
+PALABRA_CLAVE: args (linea 2)
+OPERADOR: ) (linea 2)
+OPERADOR: { (linea 2)
+IDENTIFICADOR: System (linea 3)
+ERROR: . (linea 3)
+IDENTIFICADOR: out (linea 3)
+ERROR: . (linea 3)
+IDENTIFICADOR: println (linea 3)
+OPERADOR: ( (linea 3)
+ERROR: " (linea 3)
+IDENTIFICADOR: Hola (linea 3)
+IDENTIFICADOR: Mundo (linea 3)
+ERROR: " (linea 3)
+OPERADOR: ) (linea 3)
+ERROR: ; (linea 3)
+OPERADOR: } (linea 4)
+OPERADOR: } (linea 6)
+
+LEXEMAS:
+public class HolaMundo {
+
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
+
+}
+
+Condicional: 0
+Ciclo: 0
+Palabras clave: 7
+Operadores: 8
+Identificadores: 7
+Numeros: 0
+Errores: 7

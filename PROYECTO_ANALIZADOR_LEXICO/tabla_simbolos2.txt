@@ -1,0 +1,24 @@
+| Token   | Tipo          |
+|:--------|:--------------|
+| public  | Palabra_clave |
+| class   | Palabra_clave |
+| {       | Operador      |
+| public  | Palabra_clave |
+| void    | Palabra_clave |
+| main    | Palabra_clave |
+| (       | Operador      |
+| String  | Palabra_clave |
+| [       | Desconocido   |
+| ]       | Desconocido   |
+| args    | Palabra_clave |
+| )       | Operador      |
+| {       | Operador      |
+| .       | Desconocido   |
+| .       | Desconocido   |
+| (       | Operador      |
+| "       | Desconocido   |
+| "       | Desconocido   |
+| )       | Operador      |
+| ;       | Desconocido   |
+| }       | Operador      |
+| }       | Operador      |
